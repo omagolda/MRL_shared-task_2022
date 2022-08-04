@@ -21,16 +21,16 @@ ağlamak	INFR;PST;PERF;NOM(3,SG)	ağlamıştı.
 ağlamak	INFR;LGSPEC1;PST;NOM(3,SG);Q	ağlamış mıymış?
 ağlamak	NEC;PRS;PROG;NOM(3,PL);NEG;Q	ağlıyor olmamalılar mı?
 ağlamak	INFR;PRS;PROG;NOM(2,PL);NEG	ağlamıyormuşsunuz.
-ağlamak	NEC;PRS;NOM(3,PL)	ağlameliler.
+ağlamak	NEC;PRS;NOM(3,PL)	ağlamalılar.
 ağlamak	INFR;LGSPEC1;PST;NOM(2,PL);Q	ağlamış mıymışsınız?
 ağlamak	IMP;NOM(2,PL,LGSPEC2);NEG	ağlamayınız!
 ağlamak	NEC;PST;NOM(2,PL);Q	ağlamalı mıydınız?
 ağlamak	IND;PRS;HAB;NOM(2,SG);Q	ağlar mısın?
-ağlamak	NEC;PRS;NOM(3,SG);NEG;Q	ağlamameli mi?
+ağlamak	NEC;PRS;NOM(3,SG);NEG;Q	ağlamamalı mı?
 ağlamak	IND;PST;PROG;NOM(1,PL)	ağlıyorduk.
 ağlamak	IND;PRS;HAB;NOM(2,PL);NEG	ağlamazsınız.
 ağlamak	IND;PST;NOM(1,SG);Q	ağladım mı?
-ağlamak	NEC;PRS;NOM(3,PL);Q	ağlameliler mi?
+ağlamak	NEC;PRS;NOM(3,PL);Q	ağlamalılar mı?
 ağlamak	IND;FUT;PROG;NOM(1,PL)	ağlıyor olacağız.
 ağlamak	INFR;FUT;PROG;NOM(2,SG);NEG	ağlıyor olmayacakmışsın.
 aşık olmak	IND;FUT;NOM(2,PL);Q;DAT(1,SG)	bana aşık olacak mısınız?
@@ -608,7 +608,7 @@ savunmak	INFR;PRS;HAB;NOM(2,PL);NEG;ACC(3,PL)	onları savunmazmışsınız.
 savunmak	IND;PST;HAB;PROG;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)	kendimi savunuyor olmaz mıydım?
 savunmak	INFR;FUT;HAB;NOM(3,PL);NEG;Q;ACC(2,SG)	seni savunur olmayacaklar mıymış?
 savunmak	NEC;INFR;PRS;PROG;NOM(2,PL);Q;ACC(3,PL)	onları savunuyor olmalı mıymışsınız?
-savunmak	NEC;PRS;NOM(1,SG);NEG;ACC(1,SG,RFLX)	kendimi savunmameliyim.
+savunmak	NEC;PRS;NOM(1,SG);NEG;ACC(1,SG,RFLX)	kendimi savunmamalıyım.
 savunmak	IND;FUT;PROG;NOM(3,PL);NEG;ACC(3,SG)	onu savunuyor olmayacaklar.
 savunmak	IND;PST;NOM(3,PL);NEG;Q;ACC(2,SG)	seni savunmadılar mı?
 savunmak	IND;PST;PRSP;PROG;NOM(3,PL);Q;ACC(2,PL)	sizi savunuyor olacaklar mıydı?
@@ -740,7 +740,7 @@ takmak	NEC;INFR;PRS;PROG;NOM(1,SG);NEG;Q;ACC(3,SG);DAT(3,SG)	onu ona takıyor ol
 takmak	IND;PST;HAB;NOM(1,SG);ACC(3,PL);DAT(3,PL,RFLX)	onları kendilerine takardım.
 takmak	IND;PST;PROG;NOM(3,SG);Q;ACC(1,SG);DAT(3,SG)	beni ona takıyor muydu?
 takmak	IND;PST;PERF;NOM(3,PL);Q;ACC(3,PL);DAT(1,SG)	onları bana taktılar mıydı?
-takmak	NEC;PRS;NOM(2,PL);NEG;ACC(1,SG);DAT(3,PL)	beni onlara takmamelisiniz.
+takmak	NEC;PRS;NOM(2,PL);NEG;ACC(1,SG);DAT(3,PL)	beni onlara takmamalısınız.
 takmak	IND;PRS;PROG;NOM(1,SG);ACC(2,PL);DAT(2,PL,RFLX)	sizi kendinize takıyorum.
 takmak	INFR;PST;PRSP;NOM(1,SG);NEG;Q;ACC(3,SG);DAT(1,PL)	onu bize takmış olmayacak mıydım?
 takmak	IND;FUT;PROG;NOM(3,SG);NEG;Q;ACC(2,PL);DAT(2,PL,RFLX)	sizi kendinize takıyor olmayacak mı?
@@ -778,7 +778,7 @@ toplamak	NEC;INFR;PRS;PROG;NOM(1,SG);Q;ACC(3,PL)	onları topluyor olmalı mıym�
 toplamak	NEC;PST;NOM(1,SG);NEG;ACC(2,PL)	sizi toplamamalıydım.
 toplamak	NEC;INFR;PST;NOM(1,SG);ACC(3,SG)	onu toplamalıymışım.
 toplamak	INFR;PST;PRSP;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi toplamış olmayacaklar mıydı?
-toplamak	NEC;PRS;NOM(3,SG);NEG;ACC(3,SG)	onu toplamameli.
+toplamak	NEC;PRS;NOM(3,SG);NEG;ACC(3,SG)	onu toplamamalı.
 toplamak	IND;PST;PROG;NOM(3,PL);ACC(2,SG)	seni topluyorlardı.
 toplamak	INFR;PST;PERF;NOM(2,PL);ACC(1,SG)	beni toplamıştınız.
 toplamak	NEC;PRS;PROG;NOM(3,SG);NEG;Q;ACC(1,SG)	beni topluyor olmamalı mı?
@@ -900,7 +900,7 @@ yıkamak	IND;FUT;PRSP;NOM(3,SG);ACC(2,PL)	sizi yıkayacak olacak.
 yıkamak	INFR;PST;PERF;NOM(2,PL);ACC(1,PL)	bizi yıkamıştınız.
 yıkamak	IND;PST;PRSP;PROG;NOM(3,SG);Q;ACC(2,PL)	sizi yıkıyor olacak mıydı?
 yıkamak	NEC;PST;PROG;NOM(1,SG);NEG;ACC(1,SG,RFLX)	kendimi yıkıyor olmamalıydım.
-yıkamak	NEC;PRS;NOM(3,PL);ACC(2,PL)	sizi yıkameliler.
+yıkamak	NEC;PRS;NOM(3,PL);ACC(2,PL)	sizi yıkamalılar.
 yıkamak	NEC;PST;PROG;NOM(3,SG);NEG;ACC(2,PL)	sizi yıkıyor olmamalıydı.
 yıkamak	NEC;INFR;PRS;PROG;NOM(2,SG);NEG;ACC(2,SG,RFLX)	kendini yıkıyor olmamalıymışsın.
 yıkamak	IND;FUT;NOM(2,PL);NEG;Q;ACC(1,PL)	bizi yıkamayacak mısınız?
@@ -910,8 +910,8 @@ yıkamak	INFR;PRS;PROG;NOM(2,PL);NEG;ACC(1,PL)	bizi yıkamıyormuşsunuz.
 yıkamak	INFR;FUT;PERF;NOM(3,SG);NEG;ACC(1,SG)	beni yıkamış olmayacak.
 yıkamak	IND;PST;PERF;NOM(2,SG);NEG;ACC(1,PL)	bizi yıkamadıydın.
 yıkamak	IND;PST;PROG;NOM(2,SG);Q;ACC(3,PL)	onları yıkıyor muydun?
-yıkamak	NEC;PRS;NOM(1,PL);NEG;Q;ACC(3,SG)	onu yıkamameli miyiz?
-yıkamak	NEC;PRS;NOM(2,SG);NEG;ACC(3,PL)	onları yıkamamelisin.
+yıkamak	NEC;PRS;NOM(1,PL);NEG;Q;ACC(3,SG)	onu yıkamamalı mıyız?
+yıkamak	NEC;PRS;NOM(2,SG);NEG;ACC(3,PL)	onları yıkamamalısın.
 yıkamak	NEC;PST;NOM(3,SG);NEG;Q;ACC(3,PL)	onları yıkamamalı mıydı?
 yıkamak	IND;FUT;PRSP;NOM(1,PL);Q;ACC(3,SG)	onu yıkayacak olacak mıyız?
 yıkamak	NEC;PST;NOM(1,SG);NEG;Q;ACC(2,PL)	sizi yıkamamalı mıydım?

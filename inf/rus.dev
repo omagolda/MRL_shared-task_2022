@@ -1,11 +1,11 @@
 блокировать	SBJV;NOM(2,SG,MASC);NEG;ACC(1,SG);DAT(1,PL);INS(2,PL)	ты не блокировал бы меня нам вами.
-блокировать	IND;PRS;NOM(3,SG,FEM);ACC(3,SG,MASC);DAT(3,SG,NEUT);INS(3,SG,MASC)	она блокирует его ему ему.
+блокировать	IND;PRS;NOM(3,SG,FEM);ACC(3,SG,MASC);DAT(3,SG,NEUT);INS(3,SG,MASC)	она блокирует его ему им.
 блокировать	IND;PST;NOM(1,SG,NEUT);Q;ACC(3,SG,MASC);AT+ABL(3,PL);INS(RFLX)	блокировало ли я его от них собой?
 блокировать	IND;FUT;NOM(3,SG,MASC);Q;ACC(1,SG);DAT(3,PL);INS(1,PL)	будет ли он блокировать меня им нами?
 блокировать	IND;PST;NOM(1,SG,NEUT);NEG;Q;ACC(3,SG,NEUT);AT+ABL(3,SG,FEM)	не блокировало ли я его от неё?
 блокировать	IND;PST;NOM(2,PL);NEG;Q;ACC(RFLX);DAT(3,PL)	не блокировали ли вы себя им?
 блокировать	IND;PST;NOM(1,SG,MASC);NEG;Q;ACC(3,PL);AT+ABL(3,SG,NEUT);INS(3,SG,NEUT)	не блокировал ли я их от него им?
-блокировать	IND;PST;NOM(2,SG,NEUT);NEG;Q;ACC(1,SG);INS(3,SG,MASC)	не блокировало ли ты меня ему?
+блокировать	IND;PST;NOM(2,SG,NEUT);NEG;Q;ACC(1,SG);INS(3,SG,MASC)	не блокировало ли ты меня им?
 блокировать	IND;FUT;NOM(3,SG,FEM);NEG;Q;ACC(2,PL);DAT(1,PL);INS(3,PL)	не будет ли она блокировать вас нам ими?
 блокировать	IND;FUT;NOM(3,SG,MASC);Q;ACC(3,SG,FEM);DAT(3,PL);INS(RFLX)	будет ли он блокировать её им собой?
 блокировать	IND;PRS;NOM(3,SG,FEM);Q;ACC(RFLX);AT+ABL(3,PL);INS(1,PL)	блокирует ли она себя от них нами?
@@ -18,8 +18,8 @@
 блокировать	IND;PST;NOM(3,SG,NEUT);Q;ACC(3,SG,NEUT);AT+ABL(3,SG,MASC);INS(3,SG,FEM)	блокировало ли оно его от него ей?
 блокировать	IND;PRS;NOM(2,PL);Q;ACC(3,SG,NEUT);DAT(RFLX);INS(3,SG,FEM)	блокируете ли вы его себе ей?
 блокировать	IMP;NOM(2,PL);ACC(1,PL);AT+ABL(2,PL);INS(3,SG,NEUT)	блокируйте нас от вас им!
-блокировать	SBJV;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,NEUT);DAT(2,PL);INS(3,SG,MASC)	не блокировал ли бы он его вам ему?
-блокировать	IND;PRS;NOM(3,SG,MASC);NEG;Q;ACC(2,PL);AT+ABL(2,SG);INS(3,SG,MASC)	не блокирует ли он вас от тебя ему?
+блокировать	SBJV;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,NEUT);DAT(2,PL);INS(3,SG,MASC)	не блокировал ли бы он его вам им?
+блокировать	IND;PRS;NOM(3,SG,MASC);NEG;Q;ACC(2,PL);AT+ABL(2,SG);INS(3,SG,MASC)	не блокирует ли он вас от тебя им?
 давить	IND;FUT;NOM(3,SG,FEM);Q;ACC(2,SG);IN+ABL(1,PL)	будет ли она давить тебя из нас?
 давить	IND;PST;NOM(2,SG,MASC);ACC(2,PL);INS(3,SG,NEUT)	ты давил вас им.
 давить	IND;FUT;NOM(2,SG);NEG;ACC(3,PL);IN+ABL(3,PL)	ты не будешь давить их из них.
@@ -58,7 +58,7 @@
 держать	IND;FUT;NOM(2,SG);Q;ACC(3,SG,MASC);SUB+ALL(3,SG,FEM)	будешь ли ты держать его под неё?
 держать	SBJV;NOM(3,SG,FEM);NEG;ACC(1,SG);IN+ESS(3,SG,NEUT)	она не держала бы меня в нём.
 держать	IND;PST;NOM(2,SG,FEM);Q;ACC(3,SG,MASC);POST+ALL(3,SG,MASC)	держала ли ты его за него?
-держать	IND;PRS;NOM(2,PL);ACC(3,SG,MASC);SUB+ESS(3,SG,MASC)	вы держите его под нему.
+держать	IND;PRS;NOM(2,PL);ACC(3,SG,MASC);SUB+ESS(3,SG,MASC)	вы держите его под ним.
 держать	IND;PST;NOM(1,SG,MASC);ACC(2,SG);IN+ESS(1,PL)	я держал тебя в нас.
 держать	IND;PST;NOM(2,PL);Q;ACC(1,SG);POST+ALL(3,PL)	держали ли вы меня за них?
 копировать	IND;PRS;NOM(2,PL);Q;ON+ABL(RFLX)	копируете ли вы с себя?
@@ -119,7 +119,7 @@
 наблюдаться	IND;PST;NOM(1,SG,MASC);NEG;Q;INS(3,SG,FEM)	не наблюдался ли я ей?
 наблюдаться	SBJV;NOM(3,SG,MASC);Q;INS(2,PL)	наблюдался ли бы он вами?
 наблюдаться	IND;PST;NOM(3,SG,FEM);NEG;AT+ESS(3,PL)	она не наблюдалась у них.
-наблюдаться	IND;PST;NOM(3,PL);Q;INS(3,SG,MASC)	наблюдались ли они ему?
+наблюдаться	IND;PST;NOM(3,PL);Q;INS(3,SG,MASC)	наблюдались ли они им?
 наблюдаться	IND;PST;NOM(2,SG,NEUT);INS(3,SG,NEUT)	ты наблюдалось им.
 наблюдаться	SBJV;NOM(3,SG,NEUT);NEG;INS(3,PL)	оно не наблюдалось бы ими.
 наблюдаться	IND;PRS;NOM(1,SG);NEG;Q;INS(2,PL)	не наблюдаюсь ли я вами?
@@ -196,7 +196,7 @@
 обслуживать	IND;FUT;NOM(2,SG);NEG;Q;ACC(1,SG)	не будешь ли ты обслуживать меня?
 обслуживать	IND;PST;NOM(2,SG,MASC);Q;ACC(3,SG,MASC);INS(1,PL)	обслуживал ли ты его нами?
 обслуживать	IND;PST;NOM(3,SG,NEUT);Q;ACC(RFLX);INS(2,PL)	обслуживало ли оно себя вами?
-обслуживать	IND;FUT;NOM(3,SG,FEM);NEG;Q;ACC(1,SG);INS(3,SG,MASC)	не будет ли она обслуживать меня ему?
+обслуживать	IND;FUT;NOM(3,SG,FEM);NEG;Q;ACC(1,SG);INS(3,SG,MASC)	не будет ли она обслуживать меня им?
 обслуживать	SBJV;NOM(3,SG,MASC);NEG;ACC(3,SG,NEUT);INS(2,SG)	он не обслуживал бы его тобой.
 обслуживать	IND;PST;NOM(1,SG,FEM);Q;ACC(1,PL);INS(2,SG)	обслуживала ли я нас тобой?
 обслуживать	IND;PST;NOM(1,PL);NEG;Q;ACC(3,SG,FEM);INS(3,SG,FEM)	не обслуживали ли мы её ей?
@@ -206,7 +206,7 @@
 обслуживать	IND;PST;NOM(3,SG,MASC);ACC(3,PL);INS(1,PL)	он обслуживал их нами.
 обслуживать	SBJV;NOM(1,SG,MASC);Q;ACC(3,SG,FEM);INS(1,PL)	обслуживал ли бы я её нами?
 обслуживать	SBJV;NOM(2,SG,MASC);Q;ACC(3,SG,FEM);INS(2,PL)	обслуживал ли бы ты её вами?
-обслуживать	IND;PST;NOM(1,SG,FEM);ACC(3,PL);INS(3,SG,MASC)	я обслуживала их ему.
+обслуживать	IND;PST;NOM(1,SG,FEM);ACC(3,PL);INS(3,SG,MASC)	я обслуживала их им.
 обслуживать	IND;FUT;NOM(2,SG);Q;ACC(1,SG);INS(RFLX)	будешь ли ты обслуживать меня собой?
 обслуживать	IND;PRS;NOM(2,SG);Q;ACC(1,SG);INS(1,PL)	обслуживаешь ли ты меня нами?
 обслуживать	IND;PST;NOM(3,SG,NEUT);ACC(2,SG);INS(1,PL)	оно обслуживало тебя нами.
@@ -277,15 +277,15 @@
 поболтать	IND;PST;NOM(3,SG,NEUT);NEG;COM(3,SG,FEM);VON(1,SG);PROL(3,PL)	оно не поболтало с ней обо мне по ним.
 поболтать	IND;PST;NOM(3,SG,MASC);NEG;COM(1,PL);VON(1,SG);PROL(2,SG)	он не поболтал с нами обо мне по тебе.
 поболтать	IND;FUT;NOM(3,SG,NEUT);Q;INS(2,PL);IN+ESS(2,SG)	поболтает ли оно вами в тебе?
-поболтать	IND;FUT;NOM(1,SG);Q;COM(3,SG,MASC);PROL(1,PL)	поболтаю ли я с нему по нам?
+поболтать	IND;FUT;NOM(1,SG);Q;COM(3,SG,MASC);PROL(1,PL)	поболтаю ли я с ним по нам?
 поболтать	IND;PST;NOM(3,SG,MASC);Q;COM(2,SG);VON(2,PL);PROL(3,PL)	поболтал ли он с тобой о вас по ним?
-поболтать	SBJV;NOM(3,SG,NEUT);NEG;COM(3,SG,MASC);VON(2,SG);PROL(3,SG,MASC)	оно не поболтало бы с нему о тебе по нему.
+поболтать	SBJV;NOM(3,SG,NEUT);NEG;COM(3,SG,MASC);VON(2,SG);PROL(3,SG,MASC)	оно не поболтало бы с ним о тебе по нему.
 поболтать	IND;FUT;NOM(1,PL);Q;VON(3,SG,NEUT);PROL(RFLX)	поболтаем ли мы о нём по себе?
 поболтать	SBJV;NOM(1,SG,MASC);NEG;INS(3,SG,FEM);IN+ESS(2,PL)	я не поболтал бы ей в вас.
 поболтать	IND;PST;NOM(2,PL);NEG;COM(2,SG);VON(1,PL);PROL(3,SG,NEUT)	вы не поболтали с тобой о нас по нему.
 поболтать	IND;FUT;NOM(1,PL);NEG;COM(3,SG,NEUT);VON(3,SG,NEUT)	мы не поболтаем с ним о нём.
 поболтать	SBJV;NOM(1,SG,MASC);NEG;COM(3,SG,NEUT);VON(3,SG,MASC);PROL(3,SG,NEUT)	я не поболтал бы с ним о нём по нему.
-поболтать	SBJV;NOM(3,SG,NEUT);COM(3,SG,MASC);VON(3,SG,MASC)	оно поболтало бы с нему о нём.
+поболтать	SBJV;NOM(3,SG,NEUT);COM(3,SG,MASC);VON(3,SG,MASC)	оно поболтало бы с ним о нём.
 поболтать	SBJV;NOM(1,PL);COM(1,SG);VON(3,SG,FEM);PROL(3,SG,MASC)	мы поболтали бы со мной о ней по нему.
 поболтать	IND;PST;NOM(3,SG,MASC);NEG;VON(3,SG,FEM);PROL(3,SG,FEM)	он не поболтал о ней по ней.
 поболтать	IND;FUT;NOM(2,SG);NEG;Q;COM(3,PL);VON(3,SG,MASC);PROL(3,SG,MASC)	не поболтаешь ли ты с ними о нём по нему?
@@ -294,10 +294,10 @@
 подавить	IND;FUT;NOM(3,PL);NEG;Q;ACC(3,SG,MASC);INS(RFLX)	не подавят ли они его собой?
 подавить	IND;FUT;NOM(2,PL);NEG;Q;ACC(3,PL);INS(3,PL)	не подавите ли вы их ими?
 подавить	IND;FUT;NOM(3,SG,FEM);NEG;Q;ACC(3,PL)	не подавит ли она их?
-подавить	SBJV;NOM(1,PL);ACC(3,SG,MASC);INS(3,SG,MASC)	мы подавили бы его ему.
+подавить	SBJV;NOM(1,PL);ACC(3,SG,MASC);INS(3,SG,MASC)	мы подавили бы его им.
 подавить	IND;FUT;NOM(2,SG);Q;ACC(3,SG,NEUT);INS(3,SG,FEM)	подавишь ли ты его ей?
 подавить	IND;FUT;NOM(1,SG);Q;ACC(2,SG);INS(3,SG,NEUT)	подавлю ли я тебя им?
-подавить	SBJV;NOM(2,PL);Q;ACC(RFLX);INS(3,SG,MASC)	подавили ли бы вы себя ему?
+подавить	SBJV;NOM(2,PL);Q;ACC(RFLX);INS(3,SG,MASC)	подавили ли бы вы себя им?
 подавить	IND;PST;NOM(3,SG,NEUT);Q;ACC(3,SG,NEUT);INS(2,SG)	подавило ли оно его тобой?
 подавить	SBJV;NOM(3,SG,MASC);NEG;ACC(2,PL);INS(3,PL)	он не подавил бы вас ими.
 подавить	IND;PST;NOM(3,SG,FEM);NEG;ACC(3,SG,MASC)	она не подавила его.
@@ -403,7 +403,7 @@
 придерживаться	IND;PST;NOM(3,SG,MASC);Q;POST+ALL(RFLX)	придерживался ли он за себя?
 придерживаться	IND;PST;NOM(1,SG,NEUT);Q;POST+ALL(2,PL)	придерживалось ли я за вас?
 придерживаться	SBJV;NOM(3,PL);POST+ALL(2,SG);INS(3,SG,FEM)	они придерживались бы за тебя ей.
-придерживаться	IND;PST;NOM(1,SG,MASC);POST+ALL(RFLX);INS(3,SG,MASC)	я придерживался за себя ему.
+придерживаться	IND;PST;NOM(1,SG,MASC);POST+ALL(RFLX);INS(3,SG,MASC)	я придерживался за себя им.
 придерживаться	SBJV;NOM(2,PL);Q;POST+ALL(3,SG,FEM);INS(RFLX)	придерживались ли бы вы за неё собой?
 придерживаться	IND;PRS;NOM(1,PL);GEN(3,PL)	мы придерживаемся их.
 придерживаться	IND;PST;NOM(2,SG,MASC);Q;POST+ALL(RFLX);INS(2,PL)	придерживался ли ты за себя вами?
@@ -476,7 +476,7 @@
 пустить	IND;PST;NOM(1,SG,MASC);Q;ACC(1,PL);ON+ABL(3,SG,NEUT);ON+ALL(RFLX);POST+ESS(2,SG)	пустил ли я нас с него на себя за тобой?
 пустить	SBJV;NOM(3,SG,FEM);Q;ACC(RFLX);IN+ABL(3,PL);ON+ALL(1,SG);POST+ESS(2,PL)	пустила ли бы она себя из них на меня за вами?
 пустить	IND;PST;NOM(2,SG,MASC);Q;ACC(3,SG,MASC);AT+ABL(3,SG,NEUT);ON+ALL(RFLX)	пустил ли ты его от него на себя?
-пустить	IND;PST;NOM(3,SG,MASC);NEG;Q;ACC(RFLX);ON+ABL(1,SG);ON+ALL(2,PL);POST+ESS(3,SG,MASC)	не пустил ли он себя с меня на вас за нему?
+пустить	IND;PST;NOM(3,SG,MASC);NEG;Q;ACC(RFLX);ON+ABL(1,SG);ON+ALL(2,PL);POST+ESS(3,SG,MASC)	не пустил ли он себя с меня на вас за ним?
 пустить	IND;FUT;NOM(3,SG,NEUT);NEG;ACC(3,PL);AT+ABL(3,PL);IN+ALL(3,SG,MASC);POST+ESS(3,PL)	оно не пустит их от них в него за ними.
 пустить	IND;PST;NOM(2,PL);ACC(3,SG,MASC);IN+ABL(1,SG);ON+ALL(2,SG)	вы пустили его из меня на тебя.
 пустить	SBJV;NOM(1,PL);Q;ACC(3,PL);ON+ABL(3,SG,FEM);ON+ALL(2,PL);POST+ESS(2,SG)	пустили ли бы мы их с неё на вас за тобой?
@@ -533,7 +533,7 @@
 размесчать	IND;FUT;NOM(2,PL);NEG;ACC(1,PL);ON+ESS(1,SG)	вы не будете размещать нас на мне.
 размесчать	IMP;NOM(2,PL);ACC(RFLX);INS(3,SG,NEUT)	размещайте себя им!
 размесчать	IND;PRS;NOM(2,PL);ACC(RFLX);INS(1,PL)	вы размещаете себя нами.
-размесчать	SBJV;NOM(1,SG,NEUT);ACC(3,SG,NEUT);INS(3,SG,MASC)	я размещало бы его ему.
+размесчать	SBJV;NOM(1,SG,NEUT);ACC(3,SG,NEUT);INS(3,SG,MASC)	я размещало бы его им.
 размесчать	IND;PST;NOM(3,SG,FEM);Q;ACC(1,SG);ON+ESS(RFLX)	размещала ли она меня на себе?
 размесчать	IND;PST;NOM(2,SG,FEM);NEG;ACC(3,SG,FEM);ON+ESS(RFLX)	ты не размещала её на себе.
 размесчать	SBJV;NOM(2,PL);NEG;Q;ACC(3,SG,NEUT);INS(3,SG,NEUT)	не размещали ли бы вы его им?
@@ -594,7 +594,7 @@
 сбить	IND;PST;NOM(2,SG,NEUT);NEG;ACC(3,PL);ON+ABL(3,SG,MASC);INS(3,SG,FEM)	ты не сбило их с него ей.
 сбить	IND;FUT;NOM(2,SG);NEG;ACC(3,SG,MASC);ON+ABL(3,SG,FEM);INS(3,PL)	ты не собьешь его с неё ими.
 сбить	IND;PST;NOM(2,PL);ACC(3,PL);ON+ABL(3,PL);INS(3,SG,FEM)	вы сбили их с них ей.
-сбить	IND;PST;NOM(2,SG,NEUT);NEG;Q;ACC(3,PL);ON+ABL(1,PL);INS(3,SG,MASC)	не сбило ли ты их с нас ему?
+сбить	IND;PST;NOM(2,SG,NEUT);NEG;Q;ACC(3,PL);ON+ABL(1,PL);INS(3,SG,MASC)	не сбило ли ты их с нас им?
 сбить	IND;FUT;NOM(3,SG,MASC);NEG;ACC(1,SG);ON+ABL(2,SG)	он не собьет меня с тебя.
 сбить	IND;FUT;NOM(1,PL);ACC(3,SG,MASC);ON+ABL(3,SG,NEUT);INS(RFLX)	мы собьем его с него собой.
 сбить	IND;PST;NOM(3,PL);NEG;Q;ACC(3,PL);IN+ABL(3,SG,FEM)	не сбили ли они их из неё?
@@ -608,7 +608,7 @@
 сбить	SBJV;NOM(2,SG,MASC);Q;ACC(3,SG,MASC);ON+ABL(RFLX)	сбил ли бы ты его с себя?
 сбить	IND;PST;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,MASC);ON+ABL(3,SG,FEM)	не сбило ли оно его с неё?
 сбить	IND;PST;NOM(2,SG,NEUT);NEG;Q;ACC(3,SG,MASC);ON+ABL(3,PL);INS(1,SG)	не сбило ли ты его с них мной?
-сбить	SBJV;NOM(1,PL);NEG;ACC(3,SG,NEUT);ON+ABL(2,SG);INS(3,SG,MASC)	мы не сбили бы его с тебя ему.
+сбить	SBJV;NOM(1,PL);NEG;ACC(3,SG,NEUT);ON+ABL(2,SG);INS(3,SG,MASC)	мы не сбили бы его с тебя им.
 сбросить	IND;PST;NOM(1,SG,NEUT);Q;ACC(1,PL);IN+ABL(3,SG,FEM);IN+ALL(2,PL)	сбросило ли я нас из неё в вас?
 сбросить	IMP;NOM(2,PL);ACC(RFLX);ON+ABL(3,SG,MASC);IN+ALL(1,PL)	сбросьте себя с него в нас!
 сбросить	IND;PST;NOM(1,SG,MASC);ACC(3,PL);IN+ALL(3,SG,MASC)	я сбросил их в него.
@@ -831,7 +831,7 @@
 воспроизвести	SBJV;NOM(1,PL);ACC(2,SG);ON+ESS(3,SG,FEM)	мы воспроизвели бы тебя на ней.
 воздействовать	IND;FUT;NOM(1,PL);NEG;ACC(3,SG,MASC);INS(3,PL)	мы не будем воздействовать его ими.
 воздействовать	SBJV;NOM(3,SG,MASC);Q;ACC(2,PL);INS(1,PL)	воздействовал ли бы он вас нами?
-воздействовать	IND;PRS;NOM(3,SG,FEM);Q;ACC(1,PL);INS(3,SG,MASC)	воздействует ли она нас ему?
+воздействовать	IND;PRS;NOM(3,SG,FEM);Q;ACC(1,PL);INS(3,SG,MASC)	воздействует ли она нас им?
 воздействовать	IND;PST;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,FEM);INS(3,SG,NEUT)	не воздействовало ли оно её им?
 воздействовать	IND;PST;NOM(1,PL);NEG;Q;ON+ALL(3,PL)	не воздействовали ли мы на них?
 воздействовать	SBJV;NOM(1,PL);NEG;ACC(2,SG);INS(RFLX)	мы не воздействовали бы тебя собой.
@@ -839,7 +839,7 @@
 воздействовать	IND;PST;NOM(1,SG,MASC);NEG;Q;ACC(3,PL);INS(1,PL)	не воздействовал ли я их нами?
 воздействовать	IND;PST;NOM(2,SG,MASC);NEG;ACC(1,PL);INS(3,PL)	ты не воздействовал нас ими.
 воздействовать	IND;PRS;NOM(3,SG,NEUT);NEG;Q;ACC(3,PL);INS(3,PL)	не воздействует ли оно их ими?
-воздействовать	IND;PRS;NOM(3,SG,NEUT);NEG;ACC(1,SG);INS(3,SG,MASC)	оно не воздействует меня ему.
+воздействовать	IND;PRS;NOM(3,SG,NEUT);NEG;ACC(1,SG);INS(3,SG,MASC)	оно не воздействует меня им.
 воздействовать	IND;FUT;NOM(3,PL);Q;ACC(1,PL);INS(3,PL)	будут ли они воздействовать нас ими?
 воздействовать	IND;FUT;NOM(3,PL);Q;ACC(3,SG,NEUT);INS(2,PL)	будут ли они воздействовать его вами?
 воздействовать	IND;PST;NOM(1,SG,NEUT);NEG;Q;ON+ALL(3,PL)	не воздействовало ли я на них?
@@ -906,7 +906,7 @@
 выводить	SBJV;NOM(3,SG,MASC);ACC(3,PL);IN+ABL(2,PL);ALL+VERS(3,SG,FEM)	он выводил бы их из вас к ней.
 выводить	IND;FUT;NOM(3,SG,MASC);ACC(3,SG,MASC);ON+ABL(1,PL);IN+ALL(1,SG)	он будет выводить его с нас в меня.
 выводить	SBJV;NOM(1,SG,FEM);Q;ACC(RFLX);IN+ABL(3,PL);ALL+VERS(3,SG,NEUT)	выводила ли бы я себя из них к нему?
-выводить	IND;FUT;NOM(3,SG,MASC);ACC(2,SG);ON+ABL(1,SG);INS(3,SG,MASC)	он будет выводить тебя с меня ему.
+выводить	IND;FUT;NOM(3,SG,MASC);ACC(2,SG);ON+ABL(1,SG);INS(3,SG,MASC)	он будет выводить тебя с меня им.
 выводить	SBJV;NOM(3,SG,MASC);NEG;ACC(3,PL);IN+ABL(RFLX);ALL+VERS(2,SG)	он не выводил бы их из себя к тебе.
 выводить	IND;PRS;NOM(1,SG);NEG;ACC(2,SG);ON+ABL(2,PL);ALL+VERS(3,PL)	я не вывожу тебя с вас к ним.
 выводить	IND;PST;NOM(3,PL);Q;ACC(2,PL);IN+ABL(3,SG,MASC);ALL+VERS(RFLX)	выводили ли они вас из него к себе?
@@ -914,7 +914,7 @@
 взаимодействовать	IND;FUT;NOM(3,SG,FEM);Q;COM(1,PL)	будет ли она взаимодействовать с нами?
 взаимодействовать	IND;FUT;NOM(3,PL);NEG;COM(RFLX)	они не будут взаимодействовать с собой.
 взаимодействовать	SBJV;NOM(1,SG,NEUT);COM(3,PL)	я взаимодействовало бы с ними.
-взаимодействовать	IND;PST;NOM(2,PL);Q;COM(3,SG,MASC)	взаимодействовали ли вы с нему?
+взаимодействовать	IND;PST;NOM(2,PL);Q;COM(3,SG,MASC)	взаимодействовали ли вы с ним?
 взаимодействовать	IND;PRS;NOM(1,PL);Q;COM(RFLX)	взаимодействуем ли мы с собой?
 взаимодействовать	SBJV;NOM(3,SG,FEM);NEG;Q;COM(1,PL)	не взаимодействовала ли бы она с нами?
 взаимодействовать	IND;PRS;NOM(2,SG);NEG;Q;COM(1,PL)	не взаимодействуешь ли ты с нами?
@@ -932,7 +932,7 @@
 взаимодействовать	IND;FUT;NOM(3,PL);NEG;Q;COM(2,PL)	не будут ли они взаимодействовать с вами?
 взаимодействовать	IND;PST;NOM(2,SG,NEUT);COM(3,PL)	ты взаимодействовало с ними.
 взаимодействовать	IND;FUT;NOM(1,SG);NEG;Q;COM(3,SG,FEM)	не буду ли я взаимодействовать с ней?
-взаимодействовать	SBJV;NOM(3,PL);NEG;Q;COM(3,SG,MASC)	не взаимодействовали ли бы они с нему?
+взаимодействовать	SBJV;NOM(3,PL);NEG;Q;COM(3,SG,MASC)	не взаимодействовали ли бы они с ним?
 загрузить	SBJV;NOM(2,PL);ACC(3,SG,MASC);ON+ALL(3,SG,NEUT)	вы загрузили бы его на него.
 загрузить	SBJV;NOM(3,PL);NEG;Q;ACC(1,PL);ON+ALL(3,SG,NEUT)	не загрузили ли бы они нас на него?
 загрузить	SBJV;NOM(3,PL);NEG;Q;ACC(3,SG,MASC);INS(RFLX)	не загрузили ли бы они его собой?
