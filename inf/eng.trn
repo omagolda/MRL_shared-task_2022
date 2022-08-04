@@ -1178,14 +1178,14 @@ cast	IND;FUT;PROG;NOM(3,SG,FEM);Q;ACC(1,PL)	will she be casting us?
 cast	IND;FUT;PERF;NOM(2,PL);NEG;ACC(2,PL,RFLX)	you won't have cast yourselves.
 cast	IND;PST;NOM(3,PL);ACC(1,SG)	they cast me.
 cast	IND;PRS;PERF;NOM(3,PL);ACC(3,PL)	they've cast them.
-cast	IND;PRS;NOM(1,SG);NEG;Q;ACC(3,SG,MASC)	didn't I cast him?
+cast	IND;PRS;NOM(1,SG);NEG;Q;ACC(3,SG,MASC)	don't I cast him?
 cast	IND;PRS;PROG;NOM(3,SG,MASC);NEG;ACC(3,SG,NEUT)	he's not casting it.
 cast	IND;FUT;PERF;NOM(1,PL);NEG;Q;ACC(3,SG,NEUT)	won't we have cast it?
-cast	IND;PRS;NOM(1,SG);NEG;ACC(3,SG,MASC)	I didn't cast him.
+cast	IND;PRS;NOM(1,SG);NEG;ACC(3,SG,MASC)	I don't cast him.
 cast	IND;PRS;PROG;PERF;NOM(3,SG,MASC);NEG;ACC(3,SG,NEUT)	he hasn't been casting it.
 cast	IND;PST;PROG;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	weren't we casting ourselves?
 cast	IND;FUT;PROG;NOM(3,SG,FEM);ACC(1,SG)	she'll be casting me.
-cast	IND;PRS;NOM(2);Q;ACC(3,PL)	did you cast them?
+cast	IND;PRS;NOM(2);Q;ACC(3,PL)	do you cast them?
 cast	IND;PST;PROG;NOM(3,SG,FEM);NEG;Q;ACC(1,PL)	wasn't she casting us?
 cast	IND;PST;PROG;PERF;NOM(2);NEG;ACC(3,SG,FEM)	you hadn't been casting her.
 cast	IND;FUT;PERF;NOM(3,SG,NEUT);NEG;ACC(2)	it won't have cast you.
@@ -2212,7 +2212,7 @@ cut	IND;PRS;PERF;NOM(1,SG);NEG;ACC(2)	I haven't cut you.
 cut	COND;PROG;PERF;NOM(2);ACC(3,SG,MASC)	you'd have been cutting him.
 cut	IND;FUT;PROG;NOM(2);Q;ACC(1,PL)	will you be cutting us?
 cut	IND;FUT;PROG;NOM(1,PL);NEG;Q	won't we be cutting?
-cut	IND;PRS;NOM(1,SG);NEG	I didn't cut.
+cut	IND;PRS;NOM(1,SG);NEG	I don't cut.
 cut	IND;FUT;PERF;NOM(1,PL);ACC(3,SG,MASC)	we'll have cut him.
 cut	IND;FUT;PROG;NOM(1,SG);Q;ACC(3,SG,FEM)	will I be cutting her?
 cut	COND;PERF;NOM(2);NEG;Q;ACC(3,SG,NEUT)	wouldn't you have cut it?
@@ -6883,7 +6883,7 @@ put	COND;PROG;NOM(3,SG,NEUT);Q;ACC(3,SG,NEUT);ON(3,SG,NEUT,RFLX)	would you be pu
 put	IND;PST;PROG;PERF;NOM(1,SG);Q;ACC(3,SG,FEM);ON(3,SG,FEM,RFLX)	had I been putting her on herself?
 put	IND;FUT;PROG;NOM(1,SG);Q;ACC(2,PL);ON(2,PL,RFLX)	will I be putting you on yourselves?
 put	IND;PST;PROG;NOM(3,SG,NEUT);NEG;ACC(2);ON(1,PL)	it wasn't putting you on us.
-put	IND;PRS;NOM(2);NEG;ACC(1,SG);ON(3,SG,NEUT)	you didn't put me on it.
+put	IND;PRS;NOM(2);NEG;ACC(1,SG);ON(3,SG,NEUT)	you don't put me on it.
 put	IND;PST;NOM(3,SG,MASC);NEG;ACC(3,SG,FEM);ON(3,SG,FEM)	he didn't put her on her.
 put	IND;FUT;PERF;NOM(1,PL);Q;ACC(1,SG);ON(1,PL,RFLX)	will we've put me on ourselves?
 put	IND;PST;NOM(3,SG,NEUT);Q;ACC(3,SG,NEUT);ON(1,SG)	did it put it on me?
@@ -8458,7 +8458,7 @@ spread	IND;PRS;PROG;PERF;NOM(1,SG);Q;ACC(3,SG,NEUT)	have I been spreading it?
 spread	IND;PST;PROG;PERF;NOM(3,PL);ACC(3,SG,NEUT)	they'd been spreading it.
 spread	IND;PST;NOM(2);NEG;Q;ACC(3,SG,FEM)	didn't you spread her?
 spread	COND;NOM(3,PL);Q;ACC(3,PL)	would they spread them?
-spread	IND;PRS;NOM(1,PL);Q;ACC(3,SG,NEUT)	did we spread it?
+spread	IND;PRS;NOM(1,PL);Q;ACC(3,SG,NEUT)	do we spread it?
 spread	IND;PRS;PROG;PERF;NOM(3,SG,FEM);ACC(1,SG)	she's been spreading me.
 spread	IND;FUT;PROG;PERF;NOM(1,PL);ACC(1,PL,RFLX)	we'll have been spreading ourselves.
 spread	IND;FUT;PROG;PERF;NOM(3,SG,MASC);NEG;Q;ACC(3,PL)	won't he have been spreading them?
